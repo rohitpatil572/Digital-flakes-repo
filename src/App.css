@@ -1,0 +1,58 @@
+.bg-main{
+  background-image: url('https://s3-alpha-sig.figma.com/img/8cbc/dedb/796c610da3f6d8b59a11e9447c30c3c0?Expires=1728864000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ge1Wq9ULEGc9lqbXDP~Xt2ZvqDz8AeU5BKTy1DdiH1pljYMTld~tzLwNsReiuKOsbZmOOkIq8b4Xz2bJsgFkxaMhw4KqHV~HVcU8dsd6k3xuY9cacbMnr07GbkxvzP6UC3r~IGMzcX8uYFbBwp6uKbK1jqwCifuBlPTq7KB3w6HlSV4vx8wJuh8o4W3KMEtzFn~0qThVS4BPONoKCh3dRyubBAKwILTOc50lZ48v1mwBTe7FopDWtXAXYCthDTq~RQ~18XUGC9oPjo03YPxNcuU83GaqxwxmcQvTEgGdPAHolO6GhSWZ75xXy2Ssn8iHrBZ9sqHupc0cmf8bbO4oFg__');
+  background-size: cover;
+  height: 100vh;
+
+}
+.form-div{
+  height: 80vh;
+  width: 50%;
+  padding: 5%;
+  background-color: white;
+  margin-top: 10%;
+  font-style: "Poppins";
+}
+.img-logo{
+  height: 60px;
+  width: auto;
+  text-align: center;
+}
+.btn-submit{
+  background-color: blueviolet;
+  color: #ffffff;
+  width: 100%;
+}
+.txt-forgot{
+  color: blueviolet;
+  text-align: end;
+}
+.div-card{
+background-color: #ffffff;
+box-shadow: inset;
+height: 30vh;
+width: 50vw;
+}
+.back-login{
+  text-align: center;
+  color:#8F8F8F;
+  ;
+}
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.home {
+  text-align: center;
+}
+
+.logo {
+  width: 150px; /* Adjust logo size */
+  margin-bottom: 20px;
+}
